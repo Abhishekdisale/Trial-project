@@ -28,7 +28,7 @@ drug_list_lower = [d.lower() for d in drug_list]
 
 
 # Streamlit UI
-st.title("=Š Drug Review Condition Predictor")
+st.title("ðŸ’Š Drug Review Condition Predictor")
 
 st.write("Predict disease condition from drug name and review.")
 
